@@ -1,1 +1,1 @@
-Below is 2D platformer created in the Monogame/XNA framework as an entry in the 2017-2018 Business Professionals of America Software Engineering Team. Below placed 2nd in the nation and best in the showcase at the BPA national convention in Dallas, Texas.
+Below is 2D platformer created in the Monogame/XNA framework as an entry for the 2017-2018 Business Professionals of America Software Engineering Team. Below placed 2nd in the nation and best in the showcase at the BPA national convention in Dallas, Texas.
