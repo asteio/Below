@@ -1,0 +1,2 @@
+Ted=This cave seems sketchy, but I think it's all we have.
+WalkieTalkie=Ted: Guys, I found a cave, head east and meet me inside.

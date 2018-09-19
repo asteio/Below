@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Police.ogg</SourceFile>
+  <SourceTime>2018-02-13T21:15:35-05:00</SourceTime>
+  <DestFile>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/bin/Windows/Audio/Music/Police.xnb</DestFile>
+  <DestTime>2018-02-13T21:17:00.466147-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/bin/Windows/Audio/Music/Police.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

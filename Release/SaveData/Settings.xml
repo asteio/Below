@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MusicOn>true</MusicOn>
+  <SoundOn>true</SoundOn>
+  <NewGame>true</NewGame>
+</Settings>

@@ -1,0 +1,5 @@
+GAME STARTED - 9/19/2018 3:25:36 PM
+Added screen: DefaultScreen - 9/19/2018 3:25:36 PM
+Added screen: CogThoughtSplashScreen - 9/19/2018 3:25:36 PM
+Removed screen: CogThoughtSplashScreen - 9/19/2018 3:25:39 PM
+Added screen: SharkBoysSplashScreen - 9/19/2018 3:25:39 PM

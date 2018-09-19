@@ -1,0 +1,11 @@
+GAME STARTED - 9/19/2018 2:53:40 PM
+Added screen: DefaultScreen - 9/19/2018 2:53:40 PM
+Added screen: CogThoughtSplashScreen - 9/19/2018 2:53:40 PM
+Removed screen: CogThoughtSplashScreen - 9/19/2018 2:53:43 PM
+Added screen: SharkBoysSplashScreen - 9/19/2018 2:53:43 PM
+Removed screen: SharkBoysSplashScreen - 9/19/2018 2:53:46 PM
+Added screen: SoundSplashScreen - 9/19/2018 2:53:46 PM
+Removed screen: SoundSplashScreen - 9/19/2018 2:53:49 PM
+Added screen: MainMenuScreen - 9/19/2018 2:53:49 PM
+Removed screen: MainMenuScreen - 9/19/2018 2:53:50 PM
+Added screen: PrologueScreen - 9/19/2018 2:53:50 PM

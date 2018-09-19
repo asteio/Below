@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/placeholder.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/GUI/dbox.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Shaders/DeferredLightEffect.fx</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Shaders/LightEffect.fx</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Shaders/normal.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Overlays/lightning.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Particles/raindrop.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Fonts/SmallFont.spritefont</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/mountain.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/GUI/button.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Loop-1.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Logos/below_logo.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/cicada.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Fonts/ExtraSmallFont.spritefont</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Fonts/LargeFont.spritefont</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Fonts/MediumFont.spritefont</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Logos/cognitive.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/charSound.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Particles/s1.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Particles/s2.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Particles/s3.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Enemies/venus_man_trap_animation.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_1_background.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_1_bottom_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_1_top_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_2_background.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_2_bottom_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_2_top_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_3_background.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_3_bottom_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/cave_level_3_top_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/boss1.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Player/character_walk_right.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Player/arm.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Forest.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Tiles/Atlas.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Player/character_walk_backward.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Player/jump.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Player/standing.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Overlays/transparent.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/mountains_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/sun_background.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Misc/healthbar_outline.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/clouds_parallax.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Enemies/shadow_wall.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/shadow_wall_boss.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/eyeball_A.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/eyeball_B.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/eyeball_C.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/eyeball_D.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Misc/finished_portal.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Portraits/NaomiPortrait.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Portraits/PatPortrait.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Overlays/damage flash.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/chapter 1.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/chapter 2.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/chapter 3.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/epilogue.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/prologue.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/police report.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Misc/crystal_ball_blue.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Misc/crystal_ball_red.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Misc/canteen.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Enemies/swiping_enemy.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Friends/naomi.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Friends/pat.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Death.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Cave_One_Portal.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Hello.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Police.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Boss_Song.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Group_2.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Group_2_boss.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Misc/cave.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Bosses/wraith_animation.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Portraits/WalkieTalkiePortrait.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Portraits/WraithPortrait.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/chomp.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/portal.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/hurt.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/jump.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/creature.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/rainlong.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/shadowball.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/button.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Logos/sharkboylogo.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/epilogue_blue.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Graphics/Backgrounds/epilogue_red.png</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/waterfill.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/loudwall.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/radio.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/water.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Group_1.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Group_3.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Boss_3.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Credits.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Epilogue.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Music/Ambient.ogg</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/skeletonlaugh.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Audio/Sound/wallscream.wav</File>
+    <File>C:/Users/Hersh/Dropbox/VS2017 Projects/Below/Below/Content/Characters/Portraits/TedPortrait.png</File>
+  </SourceFiles>
+</SourceFileCollection>

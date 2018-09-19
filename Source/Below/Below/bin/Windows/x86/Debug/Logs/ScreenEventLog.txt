@@ -1,0 +1,22 @@
+GAME STARTED - 2/15/2018 10:03:39 PM
+Added screen: DefaultScreen - 2/15/2018 10:03:39 PM
+Added screen: CogThoughtSplashScreen - 2/15/2018 10:03:39 PM
+Removed screen: CogThoughtSplashScreen - 2/15/2018 10:03:42 PM
+Added screen: SharkBoysSplashScreen - 2/15/2018 10:03:42 PM
+Removed screen: SharkBoysSplashScreen - 2/15/2018 10:03:45 PM
+Added screen: SoundSplashScreen - 2/15/2018 10:03:45 PM
+Removed screen: SoundSplashScreen - 2/15/2018 10:03:48 PM
+Added screen: MainMenuScreen - 2/15/2018 10:03:48 PM
+Added screen: SettingsScreen - 2/15/2018 10:03:50 PM
+Removed screen: SettingsScreen - 2/15/2018 10:03:51 PM
+Removed screen: MainMenuScreen - 2/15/2018 10:03:54 PM
+Added screen: PrologueScreen - 2/15/2018 10:03:54 PM
+Removed screen: PrologueScreen - 2/15/2018 10:03:57 PM
+Added screen: PoliceReportScreen - 2/15/2018 10:03:57 PM
+Added screen: PauseScreen - 2/15/2018 10:03:58 PM
+Added screen: DefaultScreen - 2/15/2018 10:04:01 PM
+Added screen: MainMenuScreen - 2/15/2018 10:04:01 PM
+Removed screen: MainMenuScreen - 2/15/2018 10:04:03 PM
+Added screen: CreditsScreen - 2/15/2018 10:04:03 PM
+Removed screen: CreditsScreen - 2/15/2018 10:04:04 PM
+Added screen: MainMenuScreen - 2/15/2018 10:04:04 PM

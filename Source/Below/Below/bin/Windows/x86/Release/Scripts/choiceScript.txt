@@ -1,0 +1,6 @@
+Wraith=Your struggle is futile, for as much as you fight, you will only achieve nothing.
+Wraith=However, even you, who is but a shadow of the Below, will have a choice.
+Wraith=I grant you the privilege of choosing your fate.
+Wraith=*rLet the darkness consume you, for it will grant you the most comfort in this eternity, but at the cost of your humanity...
+Wraith=*bOr refuse my offer and face the full misery of solitude.
+Wraith=Your friends were given these same two choices, so choose wisely, for the doors are sealed on the other side.

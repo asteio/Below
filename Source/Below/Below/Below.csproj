@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E48BBBCB-46CD-494E-9EF3-8D681A65405B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Below</RootNamespace>
+    <AssemblyName>Below</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Animation\Animation.cs" />
+    <Compile Include="Camera\Camera2D.cs" />
+    <Compile Include="Entities\Boss.cs" />
+    <Compile Include="Entities\Enemy.cs" />
+    <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Entities\GrabberEnemy.cs" />
+    <Compile Include="Entities\Health.cs" />
+    <Compile Include="Entities\ShadowBall.cs" />
+    <Compile Include="Gameplay\Portal.cs" />
+    <Compile Include="GameScreens\ChapterScreens\EpilogueScreen.cs" />
+    <Compile Include="GameScreens\ChapterScreens\PrologueScreen.cs" />
+    <Compile Include="GameScreens\Cutscenes\DateScreen.cs" />
+    <Compile Include="GameScreens\Cutscenes\Ending1Screen.cs" />
+    <Compile Include="GameScreens\Cutscenes\Ending2Screen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\BossScreens\Boss1Screen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\BossScreens\Boss2Screen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\BossScreens\ChoiceScreen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\BossScreens\EndBossScreen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\CaveScreen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\LevelScreen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\WakeUpScreen.cs" />
+    <Compile Include="GameScreens\MenuScreens\ControlsScreen.cs" />
+    <Compile Include="GameScreens\Misc Screens\DeathScreen.cs" />
+    <Compile Include="GameScreens\Misc Screens\DefaultScreen.cs" />
+    <Compile Include="GameScreens\SplashScreens\SoundSplashScreen.cs" />
+    <Compile Include="Entities\Player.cs" />
+    <Compile Include="Gameplay\ShadowCamera.cs" />
+    <Compile Include="GameScreens\Cutscenes\PoliceReportScreen.cs" />
+    <Compile Include="GameScreens\GameplayScreens\ForestScreen.cs" />
+    <Compile Include="GameScreens\MenuScreens\MainMenuScreen.cs" />
+    <Compile Include="GameScreens\MenuScreens\PauseScreen.cs" />
+    <Compile Include="GameScreens\MenuScreens\SettingsScreen.cs" />
+    <Compile Include="GameScreens\Misc Screens\CreditsScreen.cs" />
+    <Compile Include="GameScreens\SplashScreens\CogThoughtSplashScreen.cs" />
+    <Compile Include="GameScreens\SplashScreens\SharkBoysSplashScreen.cs" />
+    <Compile Include="Graphics\ParallaxBackground.cs" />
+    <Compile Include="Gameplay\Canteen.cs" />
+    <Compile Include="Utilities\FrameCounter.cs" />
+    <Compile Include="Utilities\Keybindings.cs" />
+    <Compile Include="Levels\Colors.cs" />
+    <Compile Include="Levels\LevelGroup.cs" />
+    <Compile Include="Lighting\LightingEngine.cs" />
+    <Compile Include="Lighting\Lights\Light.cs" />
+    <Compile Include="Lighting\Lights\PointLight.cs" />
+    <Compile Include="Lighting\Lights\SpotLight.cs" />
+    <Compile Include="SaveData\LevelData.cs" />
+    <Compile Include="SaveData\PlayerData.cs" />
+    <Compile Include="SaveData\SaveLocations.cs" />
+    <Compile Include="Utilities\ScreenOrder.cs" />
+    <Compile Include="Utilities\Ray2D.cs" />
+    <Compile Include="Utilities\SoundManager.cs" />
+    <Compile Include="Graphics\ThunderStorm.cs" />
+    <Compile Include="GUI\Button.cs" />
+    <Compile Include="GUI\DialogueBox.cs" />
+    <Compile Include="Levels\ImageLoad.cs" />
+    <Compile Include="Levels\Level.cs" />
+    <Compile Include="Levels\Tile.cs" />
+    <Compile Include="ParticleEngine\RainDrop.cs" />
+    <Compile Include="ParticleEngine\RainGenerator.cs" />
+    <Compile Include="ParticleEngine\Particle.cs" />
+    <Compile Include="ParticleEngine\ParticleEngine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaveData\Settings.cs" />
+    <Compile Include="ScreenManager\GameScreen.cs" />
+    <Compile Include="ScreenManager\ScreenManager.cs" />
+    <Compile Include="Utilities\ImageTools.cs" />
+    <Compile Include="Utilities\RectangleExtensions.cs" />
+    <Compile Include="Utilities\TextTools.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Audio\Sound\charSound.wav" />
+    <Content Include="Content\Audio\Sound\cicada.wav" />
+    <Content Include="Content\Audio\Sound\creature.wav" />
+    <Content Include="Content\Audio\Sound\hurt.wav" />
+    <Content Include="Content\Audio\Sound\loudwall.wav" />
+    <Content Include="Content\Audio\Sound\button.wav" />
+    <Content Include="Content\Audio\Sound\portal.wav" />
+    <Content Include="Content\Audio\Sound\radio.wav" />
+    <Content Include="Content\Audio\Sound\rainlong.wav" />
+    <Content Include="Content\Audio\Sound\shadowball.wav" />
+    <Content Include="Content\Audio\Sound\chomp.wav" />
+    <Content Include="Content\Audio\Sound\jump.wav" />
+    <Content Include="Content\Audio\Sound\skeletonlaugh.wav" />
+    <Content Include="Content\Audio\Sound\wallscream.wav" />
+    <Content Include="Content\Audio\Sound\water.wav" />
+    <Content Include="Content\Audio\Sound\waterfill.wav" />
+    <Content Include="Content\Characters\Bosses\boss1.png" />
+    <Content Include="Content\Characters\Bosses\eyeball_A.png" />
+    <Content Include="Content\Characters\Bosses\eyeball_B.png" />
+    <Content Include="Content\Characters\Bosses\eyeball_C.png" />
+    <Content Include="Content\Characters\Bosses\eyeball_D.png" />
+    <Content Include="Content\Characters\Bosses\shadow_wall_boss.png" />
+    <Content Include="Content\Characters\Bosses\wraith_animation.png" />
+    <Content Include="Content\Characters\Enemies\shadow_wall.png" />
+    <Content Include="Content\Characters\Enemies\swiping_enemy.png" />
+    <Content Include="Content\Characters\Enemies\venus_man_trap_animation.png" />
+    <Content Include="Content\Characters\Friends\naomi.png" />
+    <Content Include="Content\Characters\Friends\pat.png" />
+    <Content Include="Content\Characters\Player\arm.png" />
+    <Content Include="Content\Characters\Player\character_walk_backward.png" />
+    <Content Include="Content\Characters\Player\character_walk_right.png" />
+    <Content Include="Content\Characters\Player\jump.png" />
+    <Content Include="Content\Characters\Player\standing.png" />
+    <Content Include="Content\Characters\Portraits\NaomiPortrait.png" />
+    <Content Include="Content\Characters\Portraits\PatPortrait.png" />
+    <Content Include="Content\Characters\Portraits\TedPortrait.png" />
+    <Content Include="Content\Characters\Portraits\WalkieTalkiePortrait.png" />
+    <Content Include="Content\Characters\Portraits\WraithPortrait.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_1_background.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_1_bottom_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_1_top_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_2_background.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_2_bottom_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_2_top_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_3_background.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_3_bottom_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\cave_level_3_top_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\chapter 1.png" />
+    <Content Include="Content\Graphics\Backgrounds\chapter 2.png" />
+    <Content Include="Content\Graphics\Backgrounds\chapter 3.png" />
+    <Content Include="Content\Graphics\Backgrounds\clouds_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\epilogue.png" />
+    <Content Include="Content\Graphics\Backgrounds\epilogue_blue.png" />
+    <Content Include="Content\Graphics\Backgrounds\epilogue_red.png" />
+    <Content Include="Content\Graphics\Backgrounds\mountain.png" />
+    <Content Include="Content\Graphics\Backgrounds\mountains_parallax.png" />
+    <Content Include="Content\Graphics\Backgrounds\police report.png" />
+    <Content Include="Content\Graphics\Backgrounds\prologue.png" />
+    <Content Include="Content\Graphics\Backgrounds\sun_background.png" />
+    <Content Include="Content\Graphics\Logos\sharkboylogo.png" />
+    <Content Include="Content\Graphics\Misc\canteen.png" />
+    <Content Include="Content\Graphics\GUI\button.png" />
+    <Content Include="Content\Graphics\GUI\dbox.png" />
+    <Content Include="Content\Graphics\Logos\below_logo.png" />
+    <Content Include="Content\Graphics\Logos\cognitive.png" />
+    <Content Include="Content\Graphics\Misc\cave.png" />
+    <Content Include="Content\Graphics\Misc\crystal_ball_blue.png" />
+    <Content Include="Content\Graphics\Misc\crystal_ball_red.png" />
+    <Content Include="Content\Graphics\Misc\finished_portal.png" />
+    <Content Include="Content\Graphics\Misc\healthbar_outline.png" />
+    <Content Include="Content\Graphics\Overlays\damage flash.png" />
+    <Content Include="Content\Graphics\Overlays\lightning.png" />
+    <Content Include="Content\Graphics\Overlays\transparent.png" />
+    <Content Include="Content\Graphics\Particles\s1.png" />
+    <Content Include="Content\Graphics\Particles\s2.png" />
+    <Content Include="Content\Graphics\Particles\s3.png" />
+    <Content Include="Content\placeholder.png" />
+    <Content Include="Content\Graphics\Particles\raindrop.png" />
+    <Content Include="Content\Shaders\DeferredLightEffect.fx" />
+    <Content Include="Content\Shaders\LightEffect.fx" />
+    <Content Include="Content\Shaders\normal.png" />
+    <Content Include="Content\Tiles\Atlas.png" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+    <None Include="Content\Audio\Music\Ambient.ogg" />
+    <None Include="Content\Audio\Music\Boss_3.ogg" />
+    <None Include="Content\Audio\Music\Boss_Song.ogg" />
+    <None Include="Content\Audio\Music\Cave_One_Portal.ogg" />
+    <None Include="Content\Audio\Music\Credits.ogg" />
+    <None Include="Content\Audio\Music\Death.ogg" />
+    <None Include="Content\Audio\Music\Epilogue.ogg" />
+    <None Include="Content\Audio\Music\Forest.ogg" />
+    <None Include="Content\Audio\Music\Group_1.ogg" />
+    <None Include="Content\Audio\Music\Group_2.ogg" />
+    <None Include="Content\Audio\Music\Group_2_boss.ogg" />
+    <None Include="Content\Audio\Music\Group_3.ogg" />
+    <None Include="Content\Audio\Music\Hello.ogg" />
+    <None Include="Content\Audio\Music\Loop-1.ogg" />
+    <None Include="Content\Audio\Music\Police.ogg" />
+    <None Include="Content\Fonts\ExtraSmallFont.spritefont" />
+    <None Include="Content\Fonts\LargeFont.spritefont" />
+    <None Include="Content\Fonts\MediumFont.spritefont" />
+    <None Include="Content\Fonts\SmallFont.spritefont">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

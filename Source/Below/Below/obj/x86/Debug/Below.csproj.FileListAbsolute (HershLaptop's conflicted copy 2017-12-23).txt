@@ -1,0 +1,105 @@
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\circle1.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\circle2.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\circle3.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\cirlce4.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Below.exe
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Below.pdb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\obj\x86\Debug\Below.csprojResolveAssemblyReference.cache
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\obj\x86\Debug\Below.exe
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\obj\x86\Debug\Below.pdb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\1.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\2.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\3.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\4.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\obj\x86\Debug\Below.exe
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\obj\x86\Debug\Below.pdb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\1.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\2.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\3.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\4.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\circle1.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\circle2.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\circle3.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\cirlce4.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\lightmask.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Below.exe
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Below.pdb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\obj\x86\Debug\Below.csprojResolveAssemblyReference.cache
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\placeholder.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\placeholder.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Tiles\background.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Tiles\normal.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Sprites\Player\palyer.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Sprites\Player\palyer.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Tiles\background.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Tiles\normal.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Characters\Portraits\BobPortrait.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Characters\Portraits\JeffPortrait.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Characters\Portraits\PatrickPortrait.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\GUI\dbox.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Characters\Portraits\BobPortrait.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Characters\Portraits\JeffPortrait.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Characters\Portraits\PatrickPortrait.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\GUI\dbox.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Tiles\platform.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Tiles\platform.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\arm.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\arm.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Shaders\DeferredLightEffect.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Shaders\LightEffect.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Shaders\DeferredLightEffect.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Shaders\LightEffect.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Shaders\normal.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Overlays\lightning.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Particles\raindrop.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Fonts\SmallFont.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Fonts\SmallFont.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Overlays\lightning.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Particles\raindrop.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Shaders\normal.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\GUI\button.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Backgrounds\mountain.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Backgrounds\mountain.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\GUI\button.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Audio\Music\Loop-1.wma
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Audio\Music\Loop-1.xnb
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Audio\Music\Loop-1.wma
+C:\Users\Hersh\Dropbox\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Audio\Music\Loop-1.xnb
+C:\Users\Hersh\Dropbox (asdf)\VS2017 Projects\Below\Below\bin\Windows\x86\Debug\Content\Graphics\Logos\below_logo.xnb

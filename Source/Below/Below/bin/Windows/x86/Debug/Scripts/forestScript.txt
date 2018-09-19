@@ -1,0 +1,5 @@
+Pat=This storm's gettin' pretty rough.
+Naomi=We need to find shelter quickly.
+Naomi=I think we should split up to find a spot for the night.
+Ted=Sounds good, radio back if you find anything.
+Ted=Oh, and try not to get lost.
