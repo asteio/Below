@@ -467,7 +467,7 @@ namespace Below
 			client.DeliveryMethod = SmtpDeliveryMethod.Network;
 			client.UseDefaultCredentials = false;
 			//hardcode login credentials
-			client.Credentials = new System.Net.NetworkCredential("sharkboyserrors@gmail.com", "sboys2018!");
+			client.Credentials = new System.Net.NetworkCredential("sharkboyserrors@gmail.com", "[password]");
 
 			//create the messaage
 			var sendMail = new MailMessage();
